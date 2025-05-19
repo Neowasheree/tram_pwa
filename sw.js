@@ -1,4 +1,4 @@
-const CACHE = 'tram-pwa-v1';
+const CACHE = 'tram-pwa-v2';
 const ASSETS = [
   '/index.html','/style.css','/app.js',
   '/icons/icon-192.png','/icons/icon-512.png'
