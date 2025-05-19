@@ -69,7 +69,7 @@ document.getElementById("notifyBtn").addEventListener("click", async () => {
 // 6. 注册 Service Worker
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('sw.js')
       .then(r => console.log("SW 注册成功"))
       .catch(e => console.error(e));
   });
