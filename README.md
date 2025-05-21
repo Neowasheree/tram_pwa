@@ -52,10 +52,9 @@ tram_pwa/
    ```
    https://<your-user>.github.io/tram_pwa/
    ```
-4. **Add to Home Screen**
+4. **Add to Desktop**
 
-   * **iOS Safari**: Share → Add to Home Screen
-   * **Android Chrome**: Menu → Add to Home Screen
+   * **Google Chrome**: Install → Add Desktop
 
 ## ⚙️ Customization
 
