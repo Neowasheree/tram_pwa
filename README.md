@@ -2,8 +2,6 @@
 
 A lightweight, installable web app that lets you look up upcoming MVG tram (and bus) departures for selected Munich stops—no code changes required once deployed.
 
-![PWA Home Screen Demo](./icons/icon-192.png)
-
 ## 🚀 Features
 
 * **Instant Query**
