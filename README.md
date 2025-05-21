@@ -7,8 +7,7 @@ A lightweight, installable web app that lets you look up upcoming MVG tram (and 
 * **Instant Query**
   Enter a station name (fuzzy match) → get the next 5 departures in seconds.
 * **PWA-Ready**
-  • Add to Home Screen on iOS/Android
-  • Offline-capable via Service Worker caching
+  • Easily install to your Desktop 
   • Custom app icon & theme color
 * **Notifications**
   Desktop browsers receive a local notification of departures.
