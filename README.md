@@ -58,24 +58,6 @@ tram_pwa/
 
 ## ⚙️ Customization
 
-### Allowed Stops
-
-In `app.js`, near the top you’ll find:
-
-```js
-const allowedStops = {
-  "Borstei":               "de:09162:305",
-  "Marienplatz":           "de:09162:2",
-  "Dachauer Straße":       "de:09162:228",
-  // … add your stations here …
-};
-```
-
-* **Key**: the station name (what users type)
-* **Value**: the MVG `globalId` from the API
-
-Add or remove entries to control which stations can be queried.
-
 ### Theme & Icons
 
 * **Colors**: change `theme_color` in `manifest.json`
